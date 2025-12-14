@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702545839260",
+    "project_id": "umbrella-8f947",
+    "storage_bucket": "umbrella-8f947.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702545839260:android:9ee41db98afcd74e53d959",
+        "android_client_info": {
+          "package_name": "com.nasimabc.a1umbrella"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHO4S01OuAitcVovdCxU54ENYB92Ysm84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

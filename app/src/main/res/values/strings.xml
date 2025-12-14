@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">1 Umbrella</string>
+    <string name="app_slogan">Home Services, Simplified.</string>
+    <string name="login_title">Welcome Back!</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="login_subtitle">Login to your account</string>
+    <string name="hint_email">Phone or Email</string>
+    <string name="hint_password">Password</string>
+    <string name="action_login">Login</string>
+    <string name="btn_login">Login</string>
+    <string name="action_register">Don\'t have an account? Register</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="divider_or">OR</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="no_account_prompt">Don\'t have an account? </string>
+    <string name="sign_up">Sign Up</string>
+    
+    <!-- Registration Screen Strings -->
+    <string name="register_title">Create Account</string>
+    <string name="register_subtitle">Join 1 Umbrella today</string>
+    <string name="hint_full_name">Full Name</string>
+    <string name="hint_email_address">Email Address</string>
+    <string name="hint_phone">Phone Number</string>
+    <string name="hint_address">Address / Location</string>
+    <string name="label_provider_switch">I am a Service Provider</string>
+    <string name="action_register_btn">Register</string>
+    <string name="action_already_have_account">Already have an account? Login</string>
+
+    <!-- Home Dashboard Strings -->
+    <string name="welcome_user">Welcome, Nasim</string>
+    <string name="user_location">Dhaka, Bangladesh</string>
+    <string name="search_hint">Find a service (e.g., Plumber)</string>
+    <string name="service_electrician">Electrician</string>
+    <string name="service_plumber">Plumber</string>
+    <string name="service_painter">Painter</string>
+    <string name="service_gas">Gas Service</string>
+    <string name="service_ac">AC Repair</string>
+    <string name="service_appliances">Appliances</string>
+    <string name="service_doorlock">Door Lock</string>
+    <string name="service_furniture">Furniture</string>
+    <string name="service_kitchen">Kitchen</string>
+    
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_bookings">Bookings</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Provider Details Strings -->
+    <string name="provider_rating_label">Rating</string>
+    <string name="provider_about_title">About</string>
+    <string name="provider_services_title">Services Offered</string>
+    <string name="provider_reviews_title">Reviews</string>
+    <string name="action_call_now">Call Now</string>
+    <string name="sample_provider_bio">Experienced professional with over 5 years of field work. Committed to quality service and customer satisfaction.</string>
+    <string name="sample_provider_services">• General Repairs\n• Installation\n• Maintenance\n• Emergency Service</string>
+    <string name="sample_review_1">"Great service! Very professional." - User A</string>
+    <string name="sample_review_2">"Arrived on time and fixed the issue quickly." - User B</string>
+    
+    <!-- Profile Strings -->
+    <string name="profile_title">My Profile</string>
+    <string name="action_save_profile">Save Changes</string>
+    <string name="action_view_history">Past Services</string>
+    <string name="action_logout">Logout</string>
+
+    <!-- New Strings -->
+    <string name="provider_image_desc">Provider Image</string>
+    <string name="action_call">Call</string>
+    <string name="action_book_service">Book Service</string>
+    
+    <!-- Booking Activity Strings -->
+    <string name="title_book_service">Book Service</string>
+    <string name="label_provider_name">Provider Name</string>
+    <string name="label_service_category">Service Category</string>
+    <string name="label_select_date">Select Date</string>
+    <string name="label_select_time">Select Time</string>
+    <string name="hint_your_address">Your Address</string>
+    <string name="hint_problem_description">Describe the problem (Optional)</string>
+    <string name="action_confirm_booking">Confirm Booking</string>
+    <string name="desc_back">Back</string>
+    <string name="error_select_time">Please select a time slot</string>
+    <string name="error_address_required">Address is required</string>
+    <string name="msg_booking_confirmed">Booking Confirmed!</string>
+    <string name="error_booking_failed">Error: %s</string>
+    <string name="error_loading_provider">Error loading provider info</string>
+
+    <!-- Time Slots -->
+    <string name="time_slot_09am">09:00 AM</string>
+    <string name="time_slot_11am">11:00 AM</string>
+    <string name="time_slot_01pm">01:00 PM</string>
+    <string name="time_slot_03pm">03:00 PM</string>
+    <string name="time_slot_05pm">05:00 PM</string>
+</resources>
