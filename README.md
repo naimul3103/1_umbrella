@@ -36,7 +36,7 @@ The app enables users to quickly find, evaluate, and book verified local profess
 
 | Home Screen | Provider List | Booking Screen |
 |------------|---------------|---------------|
-| ![Home](screenshots/home.png) | ![Providers](screenshots/providers.png) | ![Booking](screenshots/booking.png) |
+| ![Home](app/Screenshot/home.jpg) | ![Providers](app/Screenshot/provider.jpg) | ![Booking](app/Screenshot/booking.jpg) |
 
 ## 🔄 Application Workflow
 
