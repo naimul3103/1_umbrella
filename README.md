@@ -12,29 +12,23 @@
 
 </div>
 
----
-
 ## 📖 About 1umbrella
 
 **1umbrella** is a native Android application developed to simplify home maintenance services.  
 The app enables users to quickly find, evaluate, and book verified local professionals such as electricians, plumbers, and repair technicians—without the hassle of phone calls or unreliable contacts.
 
----
-
 ## ✨ Core Features
 
 ### 👤 Customers (Service Seekers)
-- 🔍 Search services by category or provider name  
-- ⭐ View verified profiles with ratings and distance  
-- 📅 Book services by selecting date and time  
-- 📂 Track booking history and status  
+🔍 Search services by category or provider name  
+⭐ View verified profiles with ratings and distance  
+📅 Book services by selecting date and time  
+📂 Track booking history and status  
 
 ### 🧰 Service Providers
-- 👨‍🔧 Create a professional digital profile  
-- 💼 Showcase skills, category, and hourly rate  
-- 📍 Reach nearby customers easily  
-
----
+👨‍🔧 Create a professional digital profile  
+💼 Showcase skills, category, and hourly rate  
+📍 Reach nearby customers easily  
 
 ## 📸 App Screenshots
 
@@ -43,8 +37,6 @@ The app enables users to quickly find, evaluate, and book verified local profess
 | Home Screen | Provider List | Booking Screen |
 |------------|---------------|---------------|
 | ![Home](screenshots/home.png) | ![Providers](screenshots/providers.png) | ![Booking](screenshots/booking.png) |
-
----
 
 ## 🔄 Application Workflow
 
@@ -62,8 +54,6 @@ Booking Confirmation
 Booking Management
 ```
 
----
-
 ## 🛠️ Technology Stack
 
 | Layer | Technology |
@@ -74,8 +64,6 @@ Booking Management
 | Storage | Firebase Storage |
 | Image Loader | Glide |
 | JSON Parsing | Gson |
-
----
 
 ## ⚙️ Setup & Installation
 
@@ -93,8 +81,6 @@ com.nasimabc.a1umbrella
 - Cloud Firestore  
 - Firebase Storage  
 
----
-
 ## ▶️ Run the Project
 
 1. Open the project in **Android Studio**  
@@ -102,30 +88,24 @@ com.nasimabc.a1umbrella
 3. Connect an Android device or start an emulator  
 4. Click **Run ▶**  
 
----
-
 ## 👥 Team Members
 
-Developed as part of **Mobile Application Design Lab (CSE41a)**  
+Developed as part of **Mobile Application Design Lab (CSE414)**  
 **Daffodil International University**
 
-- Didarul Islam — 222-15-6231  
-- Nasim Parvez — 222-15-6422  
-- Md. Naimul Islam — 222-15-6299  
-- Afia Morsheda Neladry — 222-15-6329  
-- Afroja Akter Lamia — 222-15-6469  
+- Didarul Islam  
+- Nasim Parvez
+- Md. Naimul Islam
+- Afia Morsheda Neladry
+- Afroja Akter Lamia
 
 **Supervisor:** Sadaf M. Anis  
-
----
 
 ## 📞 Support
 
 For any questions, feedback, or bug reports:
 
 📧 **support@1umbrella.com**
-
----
 
 <div align="center">
 
