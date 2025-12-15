@@ -32,8 +32,6 @@ The app enables users to quickly find, evaluate, and book verified local profess
 
 ## 📸 App Screenshots
 
-> _Image paths can be added later_
-
 | Home Screen | Provider List | Booking Screen |
 |------------|---------------|---------------|
 | ![Home](app/Screenshot/home.jpg) | ![Providers](app/Screenshot/provider.jpg) | ![Booking](app/Screenshot/booking.jpg) |
